@@ -90,12 +90,12 @@ To build and run this project, the following software and tools are required:
 
 | Feature                | Image                              |
 |------------------------|-------------------------------------|
-| Login                  | ![Login](/code/img/login.jpg)      |
-| Search All Flights     | ![SearchAll](/code/img/SearchAll.jpg) |
-| Search Specific Flight | ![SearchOne](/code/img/SearchOne.jpg) |
-| Create Booking         | ![Create](/code/img/Create.jpg)    |
-| Delete Booking         | ![Delete](/code/img/Delete.jpg)    |
-| Update Booking         | ![Update](/code/img/Update.jpg)    |
+| Login                  | ![Login](img/login.jpg)      |
+| Search All Flights     | ![SearchAll](img/SearchAll.jpg) |
+| Search Specific Flight | ![SearchOne](img/SearchOne.jpg) |
+| Create Booking         | ![Create](img/Create.jpg)    |
+| Delete Booking         | ![Delete](img/Delete.jpg)    |
+| Update Booking         | ![Update](img/Update.jpg)    |
 
 
 <div align="center" style="box-shadow: 0px 4px 1px rgba(0, 0, 0, 0.1); padding: 10px 20px; border-radius: 10px; margin-top: -10px;">
