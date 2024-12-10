@@ -22,7 +22,7 @@ To build and run this project, the following software and tools are required:
    - **Containerization:** [Docker](https://www.docker.com/products/docker-desktop) (optional for deployment)
 
 2. **Libraries and Frameworks**
-   - ****Java JDK**
+   - **Java JDK**
    - [Spring Framework](https://spring.io/)
    - **JDBC** for database connectivity
    - **Swing** for graphical user** interface development
