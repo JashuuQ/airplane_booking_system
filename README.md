@@ -56,12 +56,10 @@ To build and run this project, the following software and tools are required:
       
    2. Create a New Database: Create a database schema using the provided SQL file `bs_airplane_booking.sql`:
       
-   3. Set Up Database Connection**:
+   3. Set Up Database Connection:
       Update the following fields with your MySQL credentials:
       ```properties
         spring.datasource.url=jdbc:mysql://localhost:3306/bs_airplane_booking
-        spring.datasource.username=root
-        spring.datasource.password=qianjiashu
       ```
 
    4. Install Dependencies: Ensure that Maven (or Gradle) is configured in your IDE.
